@@ -1,0 +1,66 @@
+    1  printf("asdsada");
+    2  cd user.github.io/
+    3  ls
+    4  git config --global user.name "Yaowenzhe"
+    5  git cinfig --global user.email "996720683@qq.com"
+    6  config
+    7  yes
+    8  ls
+    9  git config --global user.name"Yaowenzhe"
+   10  git config --globa; user.email"996720683@qq.com"
+   11   git config --globa; user.email"996720683@qq.com"
+   12  git config --global user.email "996720683@11.com"
+   13  ls
+   14  echo "# yaowenzhe.github.io" >> README.md
+   15  git init
+   16  git add README.md
+   17  git commit -m "first commit"
+   18  git remote add origin https://github.com/Yaowenzhe/yaowenzhe.github.io.git
+   19  git push -u origin master
+   20  github pull origin master
+   21  github pull origin master
+   22  git pull origin 
+   23  git status
+   24  git add .
+   25  git status
+   26  git cammit -m '我也不知道输了什么'
+   27  git commit -m '我也不知道输了什么'
+   28  git status
+   29  git push -u origin master
+   30  git status
+   31  git add .
+   32  git status
+   33  git push -u origin master
+   34  clean
+   35  clear
+   36  git status
+   37  git add .
+   38  git commit -m '23333'
+   39  git push -u origin master
+   40  git push -u origin master 
+   41  add
+   42  add .
+   43  git add.
+   44  git add .
+   45  git status
+   46  git push -u origin master
+   47  git status
+   48  git add .
+   49  touch index.html
+   50  git add .
+   51  git commit -u 'fff'
+   52  git commit -m 'ffff'
+   53  git push -u orgin master
+   54  git push -u origin master
+   55  git commit -m 'github'
+   56  git add .
+   57  git push origin master
+   58  touch indexx.txt
+   59  git status
+   60  git add .
+   61  git commit -m 'ywz'
+   62  git push origin master
+   63  git add .
+   64  git commit -m 'sdfds'
+   65  git push -u origin master
+   66  history > y.txt
